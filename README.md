@@ -1,2 +1,4 @@
 # open-Helloworld
-practice
+## 練習
+
+とりあえず、Githubの使い方をマスターしてみる
